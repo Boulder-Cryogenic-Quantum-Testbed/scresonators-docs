@@ -18,7 +18,7 @@ sys.path.append(os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'quares'
+project = 'scresonators'
 copyright = '2022, placeholder'
 author = 'placeholder'
 
